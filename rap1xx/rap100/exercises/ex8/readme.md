@@ -406,5 +406,5 @@ Find the source code for the global ABAP test class in the [sources](sources) fo
 > ℹ **Info**:   
 > The solution comprises the implementation of a unit test for the actions, i.e. `deductDiscount` and `acceptTravel`.
 
-- ![document](images/doc.png) [CLASS ZRAP100_TC_TRAVEL_EML_###](sources/EX8_CLASS_ZRAP100_TC_TRAVEL_EML.txt)
+- ![document](images/doc.png) [CLASS ZRAP100_TC_TRAVEL_EML_###](sources/EX8_CLASS_ZRAP100_TC_TRAVEL_EML.abap)
 
