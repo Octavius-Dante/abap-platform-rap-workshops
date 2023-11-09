@@ -841,7 +841,7 @@ Find the source code for the behavior definition, the behavior implementation cl
 > ℹ **Please note**:  
 > The solution comprises the implementation of all four actions, i.e. `deductDiscount`, `copyTravel`, `acceptTravel`, and `rejectTravel`.           
            
-- ![document](images/doc.png) [CDS BDEF ZRAP100_R_TRAVELTP_###](sources/EX6_BDEF_ZRAP100_R_TRAVELTP.txt)
-- ![document](images/doc.png) [Class ZRAP100_BP_TRAVELTP_###](sources/EX6_CLASS_ZRAP100_BP_TRAVELTP.txt)
-- ![document](images/doc.png) [CDS BDEF ZRAP100_C_TRAVELTP_###](sources/EX6_BDEF_ZRAP100_C_TRAVELTP.txt)
-- ![document](images/doc.png) [CDS MDE ZRAP100_C_TRAVELTP_###](sources/EX6_DDLX_ZRAP100_C_TRAVELTP.txt)
+- ![document](images/doc.png) [CDS BDEF ZRAP100_R_TRAVELTP_###](sources/EX6_BDEF_ZRAP100_R_TRAVELTP.cds)
+- ![document](images/doc.png) [Class ZRAP100_BP_TRAVELTP_###](sources/EX6_CLASS_ZRAP100_BP_TRAVELTP.abap)
+- ![document](images/doc.png) [CDS BDEF ZRAP100_C_TRAVELTP_###](sources/EX6_BDEF_ZRAP100_C_TRAVELTP.cds)
+- ![document](images/doc.png) [CDS MDE ZRAP100_C_TRAVELTP_###](sources/EX6_DDLX_ZRAP100_C_TRAVELTP.cds)
