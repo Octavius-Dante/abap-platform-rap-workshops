@@ -467,6 +467,6 @@ Thank you for attending this workshop!
 
 Find the source code for the playground ABAP Class in the [sources](sources) folder. Don't forget to replace all occurences of the placeholder `###` with your group ID.
 
-- ![document](images/doc.png) [Class ZRAP100_CL_EML_###](sources/EX9_CLASS_ZRAP100_CL_EML.txt)
+- ![document](images/doc.png) [Class ZRAP100_CL_EML_###](sources/EX9_CLASS_ZRAP100_CL_EML.abap)
 
 
