@@ -389,6 +389,6 @@ you can continue with the next exercise – **[Exercise 6: Enhance the BO Behavi
 
 Find the source code for the behavior definition and behavior implementation class (aka behavior pool) in the [sources](sources) folder. Don't forget to replace all occurences of the placeholder `###` with your group ID.
 
-- ![document](images/doc.png) [CDS BDEF ZRAP100_R_TRAVELTP_###](sources/EX5_BDEF_ZRAP100_R_TRAVELTP.txt)
-- ![document](images/doc.png) [Class ZRAP100_BP_TRAVELTP_###](sources/EX5_CLASS_ZRAP100_BP_TRAVELTP.txt)
+- ![document](images/doc.png) [CDS BDEF ZRAP100_R_TRAVELTP_###](sources/EX5_BDEF_ZRAP100_R_TRAVELTP.cds)
+- ![document](images/doc.png) [Class ZRAP100_BP_TRAVELTP_###](sources/EX5_CLASS_ZRAP100_BP_TRAVELTP.abap)
 
